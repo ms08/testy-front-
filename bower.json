@@ -1,0 +1,20 @@
+{
+  "name": "testy-front-",
+  "homepage": "https://github.com/ms08/testy-front-",
+  "authors": [
+    "Daniel Gustaw <gustaw.daniel@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
